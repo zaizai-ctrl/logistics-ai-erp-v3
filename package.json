@@ -1,0 +1,11 @@
+{
+  "name": "logistics-ai-erp-v3",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm.cmd install --prefix client && npm.cmd install --prefix server",
+    "build:client": "npm.cmd run build --prefix client",
+    "check:server": "node server/src/index.js"
+  }
+}
+

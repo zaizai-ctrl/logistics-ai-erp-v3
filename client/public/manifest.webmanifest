@@ -1,0 +1,11 @@
+{
+  "name": "Logistics AI ERP V3",
+  "short_name": "AI ERP",
+  "description": "企业级进销存、财务与 AI 自动识别系统",
+  "start_url": "/scan",
+  "display": "standalone",
+  "background_color": "#eef3f7",
+  "theme_color": "#16324f",
+  "icons": []
+}
+

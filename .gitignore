@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.DS_Store
+coverage
+client/dist
+server/uploads
+Logistics-AI-ERP-V3-package.zip
